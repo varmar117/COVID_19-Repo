@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+.title h1{
+text-align: center;
+color: blue;
+font-size: 50px;
+}
+div.container{
+background-color: lightslategray;
+text-align: center;
+
+}
+div.jumbotron{
+    background-color: burlywood;
+}
